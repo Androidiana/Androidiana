@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Androidiana
 - 👀 I’m interested in coding and security
-- 🌱 I’m currently learning to do andorid things
+- 🌱 I’m currently learning to do andork things
 - 💞️ I’m looking to collaborate (later on)
 - 📫 How to reach me (later on)
 
